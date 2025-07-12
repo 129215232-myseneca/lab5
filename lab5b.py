@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Author: Vatanveer Singh
-# Student ID: vsingh227 (129215232)
+# Author: Amaanbhai Salimbhai Begh
+# Student ID: asbegh
 
 def read_file_string(file_name):
     """Reads entire file content as a string."""
