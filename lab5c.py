@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Author: Vatanveer Singh
-# Student ID: vsingh227 (129215232)
+# Author: Amaanbhai Salimbhai Begh
+# Student ID: asbegh
 
 def add(number1, number2):
     try:
